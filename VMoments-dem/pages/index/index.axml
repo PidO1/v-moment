@@ -1,0 +1,51 @@
+
+<view class="page">
+
+
+  <view class="header">
+  <view class="flex-grid-thirds">
+
+    <view class="col" >
+      <text style="font-size:130%" >V-Moments</text>
+    </view>
+
+    <view class="col">
+      <!-- <image mode="aspec" src="../assets/v1.jpg"/> -->
+    </view>
+
+    <view class="col">
+      <icon type="info" color="red" size="40"></icon>
+    </view>
+
+  </view>
+  </view>
+
+  <view class="body">
+  <view class="content">
+     <button size="default" onTap="getImage" type="primary">get</button>
+     <button size="default" onTap="sendImage" type="primary">set</button>
+     <!-- <web-view src="{{url}}" onMessage="test"></web-view> -->
+     
+  </view>
+   
+  </view>
+
+  <view class="footer">
+    <view class="flex-grid-thirds">
+
+    <view class="col2">
+      <text>VodaPay V-moments</text>
+    </view>
+
+    <view class="col2">
+      
+    </view>
+
+    <view>
+      
+    
+  </view>
+  
+</view>
+
+
